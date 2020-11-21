@@ -1,0 +1,127 @@
+                        /*           color                */
+
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.yellow{
+    color: yellow;
+}
+.white{
+    color: white;
+}
+.blue{
+    color: blue;
+}
+.pink{
+    color: pink;
+}
+.purple{
+    color: purple;
+}
+.sky{
+    color: skyblue;
+}
+.black{
+    color: black;
+}
+.brown{
+    color: brown;
+}
+.golden{
+    color: goldenrod;
+}
+.grey{
+    color: grey;
+}
+
+                                        /*           backgroundcolor                */
+
+.backred{
+    background: red;
+}
+.backgreen{
+    background: green;
+}
+.backyellow{
+    background: yellow;
+}
+.backwhite{
+    background: white;
+}
+.backblue{
+    background: blue;
+}
+.backpink{
+    background: pink;
+}
+.backpurple{
+    background: purple;
+}
+.backsky{
+    background: skyblue;
+}
+.backblack{
+    background: black;
+}
+.backbrown{
+    background: brown;
+}
+.backgolden{
+    background: goldenrod;
+}
+.backgrey{
+    background: grey;
+}
+.backimga{
+    background-image:url(walp\ \(15\).jpg) ; 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.backimgb{
+    background-image:url(walp\ \(10\).jpg) ; 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.backimgc{
+    background-image:url(walp\ \(11\).jpg) ; 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.backimgd{
+    background-image:url(walp\ \(12\).jpg) ; 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.backimge{
+    background-image:url(walp\ \(13\).jpg) ; 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.backimgf{
+    background-image:url(walp\ \(14\).jpg) ; 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.backimgg{
+    background-image:url(walp\ \(16\).jpg) ; 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.backimgh{
+    background-image:url(walp\ \(17\).jpg) ; 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.backimgi{
+    background-image:url(walp\ \(18\).jpg) ; 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.backimgj{
+    background-image:url(walp\ \(19\).jpg) ; 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
